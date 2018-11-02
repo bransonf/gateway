@@ -20,4 +20,5 @@
 #' @examples
 #' str(stlTracts)
 #' head(stlTracts)
+#'
 "stlTracts"
